@@ -1,2 +1,2 @@
 # nodePlay
-amateur node practice
+learning node 
